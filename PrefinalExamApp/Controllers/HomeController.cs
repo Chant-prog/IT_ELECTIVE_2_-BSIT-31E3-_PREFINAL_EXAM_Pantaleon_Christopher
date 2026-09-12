@@ -39,7 +39,15 @@ questions.Add(new ExamQuestion {
     Number = 4,
     QuestionText = "Which base class in EF Core manages database connections and entity tracking?",
     Options = new List<string> { "A. DbContext", "B. Controller", "C. DbSet", "D. ModelBuilder" },
-    CorrectAnswer = "A. DbContext", "Explanation = "DbContext represents a session with the database and provides APIs for querying and saving data."
+    CorrectAnswer = "A. DbContext",
+    Explanation = "DbContext represents a session with the database and provides APIs for querying and saving data."
+});
+questions.Add(new ExamQuestion {
+    Number = 5,
+    QuestionText = "What does reverse engineering (scaffolding) do in EF Core?",
+    Options = new List<string> { "A. Converts C# models into SQL scripts", "B. Generates controllers from views", "C. Generates EF Core models and a DbContext from an existing database", "D. Deletes outdated database tables" },
+    CorrectAnswer = "C. Generates EF Core models and a DbContext from an existing database",
+    Explanation = "Scaffolding inspects the database schema and produces entity classes and DbContext configuration."
 });
 
             return View(questions);
