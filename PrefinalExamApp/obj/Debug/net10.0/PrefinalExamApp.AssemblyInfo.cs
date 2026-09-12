@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrefinalExamApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3095b10773db4e7ca07e8f6405cd9749627e1f5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59324baf0a4a82ca3aac3cd7904dc9c8806de8e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrefinalExamApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrefinalExamApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
