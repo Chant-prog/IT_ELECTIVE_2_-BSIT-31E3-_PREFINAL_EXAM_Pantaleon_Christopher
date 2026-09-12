@@ -1,1 +1,1 @@
-# IT_ELECTIVE_2_-BSIT-31E3-_PREFINAL_EXAM_Pantaleon_Christopher
+# Name: [Christopher Pantaleon] | Class & Section: [BSIT-31E3]
